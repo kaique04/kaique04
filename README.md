@@ -11,7 +11,6 @@
 <br>
 
 
-<img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Rosa&layout=compact&theme=dracula&langs_count=8&show_icons=true"/>
 
 ## Habilidades
 
