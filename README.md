@@ -10,7 +10,18 @@
 
 ## 👨‍💻 Sobre mim
 
-<h3> Sou estudante de Sistemas de Informação e desenvolvedor em formação, com foco em desenvolvimento de software e aplicações web </h3>
+<p>
+  Sou estudante de <strong>Sistemas de Informação</strong> e <strong>desenvolvedor em formação</strong>, 
+  com foco em <strong>desenvolvimento de software</strong> e <strong>aplicações web</strong>.
+</p>
+
+<p>
+  Tenho experiência com <strong>projetos acadêmicos e práticos</strong>, incluindo 
+  <strong>trabalho voluntário</strong>, e estou sempre buscando 
+  <strong>aprender novas tecnologias</strong> e <strong>evoluir como profissional</strong> 
+  na área de tecnologia.
+</p>
+
 
 <br>
 <br>
