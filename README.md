@@ -10,6 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
+<br>
 <p>
   Sou estudante de <strong>Sistemas de Informação</strong> e <strong>desenvolvedor em formação</strong>, 
   com foco em <strong>desenvolvimento de software</strong> e <strong>aplicações web</strong>.
@@ -23,7 +24,6 @@
 </p>
 
 
-<br>
 <br>
 <hr>
 
