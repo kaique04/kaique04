@@ -2,8 +2,7 @@
 ## Kaique Moreira 
 
 - :two_hearts: Sistemas da Informação - Baixarelado
-- :star2: Atuo com Springboot && Node
-- :computer: Desenvolvedor FullStack 
+- :star2: Atuo com Java Springboot && Node 
 - :computer: Desenvolvedor Back-end && front-end
 - :boom: Java | JavaScript | Node | React
 
@@ -14,12 +13,14 @@
 
 ## Habilidades
 
+<div align="center">
 <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 <br>
 <br>
