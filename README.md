@@ -9,7 +9,12 @@
 <hr>
 <br>
 
+## 👨‍💻 Sobre mim
 
+<h3> Sou estudante de Sistemas de Informação e desenvolvedor em formação, com foco em desenvolvimento de software e aplicações web </h3>
+
+<hr>
+<br>
 
 ## Habilidades
 
