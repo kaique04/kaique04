@@ -39,7 +39,6 @@
 </div>
 
 <br>
-<br>
 <hr>
 <div style="display:flex;align-items:center;justify-content:center;">
 <a href="https://www.linkedin.com/in/kaique-moreira-883780207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
