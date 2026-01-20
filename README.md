@@ -45,6 +45,8 @@
 
 <img src="https://raw.githubusercontent.com/kaique04/kaique04/output/snake.svg" alt="Snake animation" />
 
+###
+
 <!--
 **kaique04/kaique04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
